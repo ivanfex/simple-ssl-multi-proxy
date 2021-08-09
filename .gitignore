@@ -1,0 +1,11 @@
+# Environment Variables
+.env
+
+# Keys and Certificates
+*.pem
+
+# Dependencies
+node_modules/
+
+# Configs
+configs.json

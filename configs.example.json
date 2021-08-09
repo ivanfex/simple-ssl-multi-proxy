@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Unsecure Service 1",
+    "targetServiceUrl": "http://unsecure.server.com:8000",
+    "port": 3001
+  },
+  {
+    "name": "Dangerous Server 2",
+    "targetServiceUrl": "http://dangerous.server.com:8080",
+    "port": 3002
+  },
+  {
+    "name": "Perilous App 2",
+    "targetServiceUrl": "http://perilous.app.com:5000",
+    "port": 3003
+  }
+]
